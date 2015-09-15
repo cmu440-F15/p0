@@ -33,6 +33,9 @@ identifying the name of the test to run. For example,
 ```sh
 $ go test -race -test.run TestBasic1
 ```
+## Submission
+
+Submit the `server_impl.go` file on Autolab. Do not change the name of the file as this will cause the tests to fail.
 
 ## Testing your implementation using `srunner`
 
